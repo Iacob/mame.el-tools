@@ -1,0 +1,7 @@
+
+#+TITLE: mame.el tools
+#+STARTUP: showeverything
+#+OPTIONS: toc:nil
+#+AUTHOR: Yong <luo.yong.name@gmail.com>
+
+Tools for mame.el(https://github.com/Iacob/elmame).
